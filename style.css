@@ -1,0 +1,70 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    background-image:linear-gradient(blue, 10%, pink);
+
+}
+
+.text-center {
+    color: rgb(246, 237, 237);
+}
+
+label {
+    color: rgb(76, 9, 139);
+}
+
+h2 {
+    color: rgb(44, 21, 176);
+}
+
+.items {
+    color: rgb(156, 16, 167);
+}
+
+.btn {
+    background-color: rgb(98, 22, 138);
+    color: rgb(38, 195, 230);
+    border-radius: 90%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .container {
+    border: 2px solid red;
+    margin: 3px 0;
+    background: cyan;
+    padding: 9px;
+}
+
+.bg-primary {
+    background-color: blueviolet;
+}
+
+.text-success {
+    color: white; 
+}*/
